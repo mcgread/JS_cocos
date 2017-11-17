@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0653c521-8d1d-4f16-9c86-a4434fb30798",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bikini_waterOnly": {
+      "ver": "1.0.3",
+      "uuid": "60adb6d7-0ac1-4d3d-9531-393d3b9e3e7c",
+      "rawTextureUuid": "0653c521-8d1d-4f16-9c86-a4434fb30798",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 1334,
+      "rawWidth": 750,
+      "rawHeight": 1334,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

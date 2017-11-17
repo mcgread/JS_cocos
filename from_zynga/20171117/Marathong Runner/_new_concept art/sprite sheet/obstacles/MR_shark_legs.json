@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "MR_shark09_leg01.png",
+	"frame": {"x":1,"y":1,"w":156,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":122},
+	"sourceSize": {"w":156,"h":122},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MR_shark10_leg02.png",
+	"frame": {"x":159,"y":1,"w":156,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":122},
+	"sourceSize": {"w":156,"h":122},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MR_shark11_leg03.png",
+	"frame": {"x":317,"y":1,"w":156,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":122},
+	"sourceSize": {"w":156,"h":122},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MR_shark_legs.png",
+	"format": "RGBA8888",
+	"size": {"w":474,"h":124},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:c898881e7013c27326faf405c22d1ab0:63a655c6b3729988911eb610e9bcc6c4:48e11818ce9e92d7c6a4d0bf6a5d81e0$"
+}
+}

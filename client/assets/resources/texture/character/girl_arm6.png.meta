@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e1c0ce96-fe94-4646-851f-8982583400ae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "girl_arm6": {
+      "ver": "1.0.3",
+      "uuid": "16ec8a1b-9131-4899-9df4-ab123a1c5e71",
+      "rawTextureUuid": "e1c0ce96-fe94-4646-851f-8982583400ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -27.5,
+      "offsetY": 6.5,
+      "trimX": 0,
+      "trimY": 40,
+      "width": 38,
+      "height": 14,
+      "rawWidth": 93,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

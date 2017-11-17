@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="right-down" width="15" height="15" tilewidth="45" tileheight="45">
+ <tileset firstgid="1" name="ground_45" tilewidth="45" tileheight="45">
+  <image source="ground_45.png" width="45" height="45"/>
+ </tileset>
+ <layer name="ground" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh6gJFITIn5I0UvJWE11PyKrpfU9EKt9IUOADFUAB0=
+  </data>
+ </layer>
+</map>

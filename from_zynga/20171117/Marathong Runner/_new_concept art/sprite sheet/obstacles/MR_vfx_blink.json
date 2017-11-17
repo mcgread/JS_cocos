@@ -1,0 +1,39 @@
+{"frames": [
+
+{
+	"filename": "MR_vfx_blink1.png",
+	"frame": {"x":1,"y":1,"w":76,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":76},
+	"sourceSize": {"w":76,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MR_vfx_blink2.png",
+	"frame": {"x":79,"y":1,"w":76,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":76},
+	"sourceSize": {"w":76,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MR_vfx_blink3.png",
+	"frame": {"x":157,"y":1,"w":76,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":76},
+	"sourceSize": {"w":76,"h":76},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MR_vfx_blink.png",
+	"format": "RGBA8888",
+	"size": {"w":234,"h":78},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:55a97ba826defa229813f5dc6541d6c5:c93b4aed0fb1e89d6b8883cfde1d2399:825b81b1c8db93ebf2c56c25ac29146e$"
+}
+}

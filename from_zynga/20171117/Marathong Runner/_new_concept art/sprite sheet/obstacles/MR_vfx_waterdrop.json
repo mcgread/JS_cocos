@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "MR_water1.png",
+	"frame": {"x":1,"y":1,"w":128,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":93},
+	"sourceSize": {"w":128,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MR_water2.png",
+	"frame": {"x":131,"y":1,"w":128,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":93},
+	"sourceSize": {"w":128,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MR_water3.png",
+	"frame": {"x":261,"y":1,"w":128,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":93},
+	"sourceSize": {"w":128,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "MR_water4.png",
+	"frame": {"x":391,"y":1,"w":128,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":93},
+	"sourceSize": {"w":128,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MR_vfx_waterdrop.png",
+	"format": "RGBA8888",
+	"size": {"w":520,"h":95},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:9ca7496277658fc2672ba9a5e177cf9b:5552a1f666ad2475a2aeb288851a2d20:826ca39695870673704f123a98793c3a$"
+}
+}

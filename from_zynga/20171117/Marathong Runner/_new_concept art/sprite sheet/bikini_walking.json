@@ -1,0 +1,48 @@
+{"frames": [
+
+{
+	"filename": "walking 1.png",
+	"frame": {"x":1,"y":1,"w":113,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":208},
+	"sourceSize": {"w":113,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking 2.png",
+	"frame": {"x":116,"y":1,"w":127,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":201},
+	"sourceSize": {"w":127,"h":201},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking 3.png",
+	"frame": {"x":245,"y":1,"w":113,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":208},
+	"sourceSize": {"w":113,"h":208},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "walking 4.png",
+	"frame": {"x":360,"y":1,"w":153,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":204},
+	"sourceSize": {"w":153,"h":204},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bikini_walking.png",
+	"format": "RGBA8888",
+	"size": {"w":514,"h":210},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b4470a2ee65facb9668f6f04769317c5:b4272e67b357f03a35f59f8053a616de:8033c289be5605734baa39d8d653ee97$"
+}
+}
